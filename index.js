@@ -6,3 +6,7 @@ const dob = '06/08/2003'
 function above18(){
     return age>=18
 }
+
+function newnName(){
+    return "my name is...."
+}
